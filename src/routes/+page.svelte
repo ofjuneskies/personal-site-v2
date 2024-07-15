@@ -2,7 +2,6 @@
     import Clouds from './Clouds/Clouds.svelte';
     import Name from './Name/Name.svelte';
     import About from './About/About.svelte';
-    import Icon from './Images/sky1-modified.png';
     import Experience from './Experience/Experience.svelte';
     import Quote from './Quote/Quote.svelte'
     import Projects from './Projects/Projects.svelte'
@@ -14,7 +13,6 @@
 
 <svelte:head>
     <title>Of June Skies</title>
-    <link rel="icon" type="image/x-icon" href={Icon}>
     
     <link href='https://fonts.googleapis.com/css?family=Silkscreen' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet'>
