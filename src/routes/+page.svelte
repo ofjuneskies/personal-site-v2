@@ -1,11 +1,13 @@
 <script lang="ts">
     import Clouds from './Clouds/Clouds.svelte';
-    import Name from './Name.svelte';
+    import Name from './Name/Name.svelte';
     import About from './About/About.svelte';
     import Icon from './Images/sky1-modified.png';
     import Experience from './Experience/Experience.svelte';
     import Quote from './Quote/Quote.svelte'
     import Projects from './Projects/Projects.svelte'
+    import Music from './Music/Music.svelte'
+    import Icons from './Icons/Icons.svelte'
 </script> 
 
 <!-- HTML -->
@@ -34,6 +36,7 @@
     <Experience></Experience>
     <Quote></Quote>
     <Projects></Projects>
+    <Music></Music>
 
     <div class = "justClouds">
         <Clouds dir="up"></Clouds>
@@ -44,6 +47,7 @@
 
 <footer>
     <div class = "ground"></div>
+    <Icons></Icons>
 </footer>
 
 <!-- CSS -->
@@ -72,7 +76,7 @@
     }
 
     .ground{
-        position: relative;
+        /* position: absolute; */
         width: 100%;
         height: 100vh;
         background: url(/src/routes/Images/ground.jpg);

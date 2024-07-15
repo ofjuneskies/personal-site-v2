@@ -1,11 +1,25 @@
 <h4>projects & research</h4>
-<a href="https://github.com/ofjuneskies/personal-site-v2">personal site (this site!)</a>
+<a class="title" href="https://github.com/ofjuneskies/personal-site-v2" target="_blank" rel="noopener noreferrer">personal site (this site!)</a>
+    <p class="subtitle">
+        html/css, sveltekit, vercel
+    </p>
 <br>
-<a href="https://github.com/ango10/LAHACKS24">recipes reimagined</a>
+<a class="title" href="https://github.com/ango10/LAHACKS24" target="_blank" rel="noopener noreferrer">recipes reimagined</a>
+    <p class="subtitle">
+        python, javascript, html, tailwindcss, mongodb, fastapi, react.js, gemini ai
+    </p>
+    <a class="subtitle" href="https://youtu.be/bG4UowASTEo?si=jipYgi8OnBsT6pc9" target="_blank" rel="noopener noreferrer">video demo</a>
 <br>
-<a href="https://github.com/hits-sdo/hits-sdo-similaritysearch">hits-sdo</a>
+<a class="title" href="https://github.com/hits-sdo/hits-sdo-similaritysearch" target="_blank" rel="noopener noreferrer">hits-sdo</a>
+    <p class="subtitle">
+        python, pytorch lightning, jupyter notebooks, skikit-learn, numpy, lightly
+    </p>
+    <a class="subtitle" href="https://drive.google.com/file/d/1KMLGNM__WcUGJmFKJHS9OdXqEqTi_0VY/view" target="_blank" rel="noopener noreferrer">video demo</a>
 <br>
-<a href="https://hack.ics.uci.edu/">hack site</a>
+<a class="title" href="https://hack.ics.uci.edu/" target="_blank" rel="noopener noreferrer">hack site</a>
+    <p class="subtitle">
+        html/css, javascript, next.js, react, vercel
+    </p>
 
 <style>
     h4{
@@ -16,16 +30,18 @@
         text-align: center;
         margin-bottom: 40px;
         font-weight: normal;
+        margin-top: 100px;
     }
 
-    a{
+    .title{
         text-decoration: none;
         font-family: 'Times New Roman', Times, serif;
         color: white;
         text-align: center;
         line-height: 200%;
-        font-size: 26px;
+        font-size: 28px;
         display:block;
+        font-weight: bold;
     }
 
     a:hover {
@@ -35,4 +51,15 @@
     a:visited {
         text-decoration: none;
     }
+
+    .subtitle{
+        text-decoration: none;
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+        text-align: center;
+        line-height: 200%;
+        font-size: 20px;
+        display:block;
+    }
+
 </style>

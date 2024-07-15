@@ -29,8 +29,8 @@
   }
 
 .name{
-    max-height: 70px;
-    min-height: 70px;
+    max-height: 60px;
+    min-height: 60px;
     font-family: "Lora";
     position: relative;
     text-align: center;
