@@ -63,7 +63,7 @@
         position: relative;
         width: 100%;
         height: 100vh;
-        background: url(images/sky1.jpg);
+        background: url(/src/routes/Images/sky1.jpg);
         background-size: cover;
         background-position: bottom;
         display: flex;
@@ -75,7 +75,7 @@
         position: relative;
         width: 100%;
         height: 100vh;
-        background: url(images/ground.jpg);
+        background: url(/src/routes/Images/ground.jpg);
         background-size: cover;
         background-position: bottom;
         display: flex;
