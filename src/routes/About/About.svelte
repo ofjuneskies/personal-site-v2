@@ -22,9 +22,9 @@
         <br><br>
         <p class = "paragraph">
             Hello, my name is Jenny Liu. I'm a fourth year Computer Science and Engineering
-            major at UC Irvine, with a machine learning.
+            major at UC Irvine, with an interest in backend development and machine learning.
             My technical experience includes working with Python, C++, Java, and HTML/CSS, as well as hardware and embedded software.
-            In my free time, I enjoy playing video games and volleyball, listening to music, 
+            Beyond academics, I enjoy playing video games and volleyball, listening to music, 
             and going on adventures with friends! 
         </p>
     </div>
