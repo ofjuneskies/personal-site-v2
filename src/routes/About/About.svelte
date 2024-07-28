@@ -54,7 +54,7 @@
     }
 
     .paragraph{
-        font-family: "Avantgarde", cursive;
+        font-family: "Josefin Sans", sans-serif;
         color: white;
         font-size: 1.5vw;
         line-height: 1.6;
@@ -105,9 +105,5 @@
         right: 25vw; 
     }
 
-
-
-
-    
 
 </style>

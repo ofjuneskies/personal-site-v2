@@ -7,12 +7,16 @@
 <style>
     .break{
         padding: 50px 10px 50px 10px;
-        background-color: #b3a4c5;
+        background-color: #ab88b8;
         line-height: 1;
-        margin: 75px 400px 40px 400px;
-        border: 7px solid #8d819c;
+        margin: 7vw 20vw 7vw 20vw;
+        border: 7px solid #8e679c;
         border-radius: 50px;
-        vertical-align: middle;
+        /* vertical-align: middle;
+        display: flex;
+        flex-direction: column;
+        justify-content:space-around;
+        flex-wrap: wrap; */
     }
 
     .quote{
