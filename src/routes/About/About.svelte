@@ -21,13 +21,16 @@
         <h4 class="about_text">&emsp;about</h4>
         <br><br>
         <p class = "paragraph">
-            Hello, my name is Jenny Liu. I'm a fourth year Computer Science and Engineering
-            major at UC Irvine, with an interest in backend development and machine learning.
-            My technical experience includes working with Python, C++, Java, and HTML/CSS, 
-            as well as hardware and embedded software. I have a passion for astronomy, and 
-            I hope to utilize my skillset to contribute to advancements in space exploration and technology.
-            Beyond academics, I enjoy playing video games and volleyball, listening to music, 
-            and going on adventures with friends! 
+            Hello, my name is Jenny Liu. I’m currently a senior at University of California, Irvine 
+            for a Bachelor’s degree in Computer Science and Engineering, where I gained a strong 
+            foundation in both software and hardware development, developing proficiency in multiple 
+            languages, including Python, C++, and Java. Being enrolled in this unique, interdisciplinary 
+            course of study, I was given the chance to take a wide range of classes, from data structures 
+            and machine learning, to circuits and machine code. I also sought further hands-on experience 
+            in research, clubs and hackathons. I have a passion for astronomy, 
+            and I hope to utilize my skillset to contribute 
+            to advancements in space exploration and technology. Beyond academics, I enjoy playing video 
+            games and volleyball, listening to music, and going on adventures with friends! 
         </p>
     </div>
 </div>
