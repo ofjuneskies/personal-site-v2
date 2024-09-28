@@ -24,6 +24,12 @@
         </p>
         <a class="subtitle" href="https://drive.google.com/file/d/1KMLGNM__WcUGJmFKJHS9OdXqEqTi_0VY/view" target="_blank" rel="noopener noreferrer">video demo <SquareArrowOutUpRight size={12} /></a>
     <br>
+    <a class="title" href="https://boundaryrss.org/" target="_blank" rel="noopener noreferrer">boundary rss <SquareArrowOutUpRight size={16} /></a>
+        <p class="subtitle">
+            <i>undergraduate research oriented around creating a system that detects subsurface pollutants, <br>focused on the system concerning synthetic aperture radar data collected from satellites</i>
+            <br>python, tensorflow, arcgis, snap, numpy
+        </p>
+    <br>
     <a class="title" href="https://hack.ics.uci.edu/" target="_blank" rel="noopener noreferrer">hack site <SquareArrowOutUpRight size={16} /></a>
         <p class="subtitle">
             <i>club website for hack at uci</i>
