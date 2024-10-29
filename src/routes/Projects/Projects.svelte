@@ -27,14 +27,16 @@
     <a class="title" href="https://boundaryrss.org/" target="_blank" rel="noopener noreferrer">boundary rss <SquareArrowOutUpRight size={16} /></a>
         <p class="subtitle">
             <i>undergraduate research oriented around creating a system that detects subsurface pollutants, <br>focused on the system concerning synthetic aperture radar data collected from satellites</i>
-            <br>python, tensorflow, arcgis, snap, numpy
+            <br>python, tensorflow, arcgis pro, snap, numpy
         </p>
     <br>
     <a class="title" href="https://hack.ics.uci.edu/" target="_blank" rel="noopener noreferrer">hack site <SquareArrowOutUpRight size={16} /></a>
         <p class="subtitle">
-            <i>club website for hack at uci</i>
+            <i>above is the website for hack at uci, and below are the websites for our hackathons</i>
             <br>html/css, javascript, next.js, react, vercel
+            <a class="subtitle" href="https://zothacks.com/" target="_blank" rel="noopener noreferrer">zothacks 2024 <SquareArrowOutUpRight size={12} /></a>
         </p>
+        
 </div>
 
 <style>

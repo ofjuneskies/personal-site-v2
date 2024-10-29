@@ -7,11 +7,11 @@
 </script>
 
 <div id="contact">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/ofjuneskies"><img class="button1" src={GitHub}></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/princelyss?si=c0c9ae9786604e9f"><img class="button1" src={Spotify}></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ofjuneskies/"><img class="button1" src={Instagram}></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jennyliu623/"><img class="button1" src={LinkedIn}></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1JjXS0yq7JbZqVP0voa5IYHUgO0XEjCBkp9oGhGW6W1k/edit?usp=sharing"><img class="button1" src={GoogleDocs}></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/ofjuneskies"><img class="button1" src={GitHub} alt="GitHub's logo"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/princelyss?si=c0c9ae9786604e9f"><img class="button1" src={Spotify} alt="Spotify's logo"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ofjuneskies/"><img class="button1" src={Instagram} alt="Instagram's logo"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jennyliu623/"><img class="button1" src={LinkedIn} alt="LinkedIn's logo"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1JjXS0yq7JbZqVP0voa5IYHUgO0XEjCBkp9oGhGW6W1k/edit?usp=sharing"><img class="button1" src={GoogleDocs} alt="Google Doc's logo"></a>
 </div>
 
 <style>

@@ -15,7 +15,7 @@
                     Owl City. I added "Skies" because I love the sky, the stars, and everything
                     beyond our atmosphere.
                 </p>
-                <img class="me_image" src={Me}>
+                <img class="me_image" src={Me} alt="Me, Jenny, on top of a tower">
             </div>
         </div>
         <h4 class="about_text">&emsp;about</h4>

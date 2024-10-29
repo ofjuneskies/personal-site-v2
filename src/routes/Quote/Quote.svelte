@@ -12,11 +12,6 @@
         margin: 7vw 20vw 7vw 20vw;
         border: 7px solid #8e679c;
         border-radius: 50px;
-        /* vertical-align: middle;
-        display: flex;
-        flex-direction: column;
-        justify-content:space-around;
-        flex-wrap: wrap; */
     }
 
     .quote{

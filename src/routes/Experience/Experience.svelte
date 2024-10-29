@@ -9,10 +9,10 @@
 <div class="container">
     <div class="parent">
         <div class = "wrapper">
-            <p class = "layer2 bio_text">&emsp;<i> WICS Community Outreach Committee Member & Community Outreach Co-Chair</i>
+            <p class = "layer2 bio_text">&emsp;<i> WICS Community Outreach Co-Chair</i>
                 December 2021 - Present
             </p>
-            <img class="exp_image" src={WICS}> 
+            <img class="exp_image" src={WICS} alt="WICS at UCI's logo"> 
         </div> 
     </div>
 
@@ -21,7 +21,7 @@
             <p class = "layer2 bio_text">&emsp;<i>Hack at UCI Logistics & Technology Organizer</i>
                 May 2023 - Present
             </p>
-            <img class="exp_image" src={Hack}> 
+            <img class="exp_image" src={Hack}  alt="Hack at UCI's logo"> 
         </div> 
     </div>
 
@@ -30,7 +30,7 @@
             <p class = "layer2 bio_text" >&emsp;&emsp;<i>VenusHacks Logistics Organizer</i>
                 January 2023 - June 2023
             </p>
-            <img class="exp_image" src={VH}> 
+            <img class="exp_image" src={VH} alt="VenusHack's logo"> 
         </div> 
     </div>
     
@@ -39,7 +39,7 @@
             <p class = "layer2 bio_text">&emsp;<i>ICS 31 Learning Assistant Organizer</i>
                 September 2022 - December 2022
             </p>
-            <img class="exp_image" src={UCI}> 
+            <img class="exp_image" src={UCI} alt="University of California, Irvine's icon"> 
         </div> 
     </div>            
 </div>
