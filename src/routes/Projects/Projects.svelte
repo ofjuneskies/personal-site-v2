@@ -80,9 +80,11 @@
         display:block;
     }
 
-    .link-icon{
-        height: 20px;
-        width: 20px;
+    @media only screen and (max-width: 600px) {
+        .exp{
+            margin-left: 20px;
+            margin-right: 20px;
+        }
     }
 
 </style>
