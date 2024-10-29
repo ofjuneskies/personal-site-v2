@@ -56,7 +56,10 @@
         color: white;
         letter-spacing: 6px;
         float: right;
+        
     }
+
+
 
     .paragraph{
         font-family: "Josefin Sans", sans-serif;
@@ -65,6 +68,8 @@
         line-height: 1.6;
         margin-left: 30px;
     }
+
+    
 
     .me_image{
         border-radius: 20px;
@@ -108,6 +113,38 @@
     .wrapper:hover .me_image {
         transition: 1.5s;
         right: 25vw; 
+    }
+
+    @media only screen and (max-width: 600px) {
+        .paragraph{
+            font-size: 14px;
+            line-height: 20px;
+        }
+
+        .about{
+            margin: 1000px 3vw 0px 3vw;
+            padding: 2vw 2vw 2vw 0vw;
+        }
+
+        .about_text{
+            font-size: 24px;
+        }
+
+        .fun_fact{
+            font-size: 12px;
+            line-height: 16px;
+            max-width: 70vw;
+        }
+
+        .me_image{
+            width: 70vw;
+            margin-bottom: 15px;
+        }
+
+        .wrapper:hover .me_image {
+            transition: 1.5s;
+            right: 70vw; 
+        }
     }
 
 
