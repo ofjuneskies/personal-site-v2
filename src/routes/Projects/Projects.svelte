@@ -35,6 +35,8 @@
             <i>above is the website for hack at uci, and below are the websites for our hackathons</i>
             <br>html/css, javascript, next.js, react, vercel
             <a class="subtitle" href="https://zothacks.com/" target="_blank" rel="noopener noreferrer">zothacks 2024 <SquareArrowOutUpRight size={12} /></a>
+            <a class="subtitle" href="https://irvinehacks.com/" target="_blank" rel="noopener noreferrer">irvinehacks 2025 <SquareArrowOutUpRight size={12} /></a>
+
         </p>
         
 </div>
